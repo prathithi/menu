@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Prathiti Multi-cuisine Restaurant</title>
+</head>
+<body>
+    <div class="menu">
+        <h1>Prathiti Multi-cuisine Family Restaurant Menu</h1>
+
+        <!-- Veg and Non-Veg Filters -->
+        <div class="filters">
+            <label>
+                <input type="radio" name="food-type" value="veg" checked> Veg
+            </label>
+            <label>
+                <input type="radio" name="food-type" value="nonveg"> Non-Veg
+            </label>
+        </div>
+
+        <!-- Veg Menu -->
+        <div class="category veg">
+            <h2>Veg Menu</h2>
+            <div class="item">
+                <h3 class="toggle">Starters <span>&#9660;</span></h3>
+                <ul class="list">
+                    <li>Vegetable Spring Rolls</li>
+                    <li>Paneer Tikka</li>
+                </ul>
+            </div>
+            <div class="item">
+                <h3 class="toggle">Soup <span>&#9660;</span></h3>
+                <ul class="list">
+                    <li>Cream of Tomato Soup</li>
+                    <li>Spinach and Corn Soup</li>
+                </ul>
+            </div>
+            <div class="item">
+                <h3 class="toggle">Main Courses <span>&#9660;</span></h3>
+                <ul class="list">
+                    <li>Vegetable Biryani</li>
+                    <li>Pasta Primavera</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Non-Veg Menu -->
+        <div class="category nonveg" style="display: none;">
+            <h2>Non-Veg Menu</h2>
+            <div class="item">
+                <h3 class="toggle">Starters <span>&#9660;</span></h3>
+                <ul class="list">
+                    <li>Chicken Wings</li>
+                    <li>Fish Fry</li>
+                </ul>
+            </div>
+            <div class="item">
+                <h3 class="toggle">Soup <span>&#9660;</span></h3>
+                <ul class="list">
+                    <li>Chicken Noodle Soup</li>
+                    <li>Seafood Chowder</li>
+                </ul>
+            </div>
+            <div class="item">
+                <h3 class="toggle">Main Courses <span>&#9660;</span></h3>
+                <ul class="list">
+                    <li>Butter Chicken</li>
+                    <li>Beef Steak</li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
+
+
+
+
+*******************************************************************************************************
+
+CSS Styles (styles.css)
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.menu {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+.filters {
+    margin-bottom: 20px;
+}
+
+.category {
+    margin-bottom: 30px;
+}
+
+.toggle {
+    cursor: pointer;
+}
+
+.list {
+    list-style: none;
+    padding: 0;
+    display: none;
+}
+
+.list.active {
+    display: block;
+}
+
+/* Styling the arrow icon */
+.toggle > span {
+    display: inline-block;
+    margin-left: 5px;
+    transition: transform 0.3s ease;
+}
+
+.toggle.active > span {
+    transform: rotate(180deg);
+}
+
+
+***************************************************************************************************************************************
+
+JavaScript (scripts.js for toggle functionality)
+
+document.addEventListener('DOMContentLoaded', function() {
+    const toggles = document.querySelectorAll('.toggle');
+
+    toggles.forEach(toggle => {
+        toggle.addEventListener('click', () => {
+            const list = toggle.nextElementSibling;
+            list.classList.toggle('active');
+            toggle.classList.toggle('active');
+        });
+    });
+
+    // Filter functionality based on radio buttons
+    const radioButtons = document.querySelectorAll('input[type="radio"][name="food-type"]');
+    radioButtons.forEach(radio => {
+        radio.addEventListener('change', () => {
+            const selectedType = radio.value;
+            const categories = document.querySelectorAll('.category');
+
+            categories.forEach(category => {
+                if (category.classList.contains(selectedType)) {
+                    category.style.display = 'block';
+                } else {
+                    category.style.display = 'none';
+                }
+            });
+        });
+    });
+});
+
+**********************************************************************************************************************************************************
+
+
