@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.menu {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+.filters {
+    margin-bottom: 20px;
+}
+
+.category {
+    margin-bottom: 30px;
+}
+
+.toggle {
+    cursor: pointer;
+}
+
+.list {
+    list-style: none;
+    padding: 0;
+    display: none;
+}
+
+.list.active {
+    display: block;
+}
+
+/* Styling the arrow icon */
+.toggle > span {
+    display: inline-block;
+    margin-left: 5px;
+    transition: transform 0.3s ease;
+}
+
+.toggle.active > span {
+    transform: rotate(180deg);
+}
