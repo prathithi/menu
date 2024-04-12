@@ -1,0 +1,28 @@
+document.addEventListener('DOMContentLoaded', function() {
+    const toggles = document.querySelectorAll('.toggle');
+
+    toggles.forEach(toggle => {
+        toggle.addEventListener('click', () => {
+            const list = toggle.nextElementSibling;
+            list.classList.toggle('active');
+            toggle.classList.toggle('active');
+        });
+    });
+
+    // Filter functionality based on radio buttons
+    const radioButtons = document.querySelectorAll('input[type="radio"][name="food-type"]');
+    radioButtons.forEach(radio => {
+        radio.addEventListener('change', () => {
+            const selectedType = radio.value;
+            const categories = document.querySelectorAll('.category');
+
+            categories.forEach(category => {
+                if (category.classList.contains(selectedType)) {
+                    category.style.display = 'block';
+                } else {
+                    category.style.display = 'none';
+                }
+            });
+        });
+    });
+});
