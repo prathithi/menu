@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html dir="auto">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="preload" href="/_next/static/media/05f970ec0bd776d8-s.p.woff2" as="font" crossorigin="" type="font/woff2">
+  <link rel="preload" href="/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2" as="font" crossorigin="" type="font/woff2">
+  <link rel="preload" as="image" imagesrcset="/_next/image?url=https%3A%2F%2Felegant.menu%2Ffood-items%2Fmargherita.webp&amp;w=640&amp;q=40 640w, /_next/image?url=https%3A%2F%2Felegant.menu%2Ffood-items%2Fmargherita.webp&amp;w=750&amp;q=40 750w, /_next/image?url=https%3A%2F%2Felegant.menu%2Ffood-items%2Fmargherita.webp&amp;w=828&amp;q=40 828w, /_next/image?url=https%3A%2F%2Felegant.menu%2Ffood-items%2Fmargherita.webp&amp;w=1080&amp;q=40 1080w, /_next/image?url=https%3A%2F%2Felegant.menu%2Ffood-items%2Fmargherita.webp&amp;w=1200&amp;q=40 1200w, /_next/image?url=https%3A%2F%2Felegant.menu%2Ffood-items%2Fmargherita.webp&amp;w=1920&amp;q=40 1920w, /_next/image?url=https%3A%2F%2Felegant.menu%2Ffood-items%2Fmargherita.webp&amp;w=2048&amp;q=40 2048w, /_next/image?url=https%3A%2F%2Felegant.menu%2Ffood-items%2Fmargherita.webp&amp;w=3840&amp;q=40 3840w" imagesizes="95vw" fetchpriority="high">
+  <link rel="stylesheet" href="/_next/static/css/cbcdcbb4fe3d9400.css" data-precedence="next">
+  <link rel="stylesheet" href="/_next/static/css/d48647e3a4375a6b.css" data-precedence="next">
+  <link rel="preload" as="script" fetchpriority="low" href="/_next/static/chunks/webpack-72f3763fcc2c6980.js">
+  <script src="/_next/static/chunks/30b509c0-e8f3d71cdb5deffc.js" async></script>
+  <script src="/_next/static/chunks/3184-45e18f32a0814b19.js" async></script>
+  <script src="/_next/static/chunks/main-app-422023168d562fe0.js" async></script>
+  <script src="/_next/static/chunks/app/(menu)/layout-5a8ca734d48466ea.js" async></script>
+  <script src="/_next/static/chunks/8100ded3-f6c125f1557000a7.js" async></script>
+  <script src="/_next/static/chunks/7b733d5d-9decf01ba76b93d1.js" async></script>
+  <script src="/_next/static/chunks/ba5914e4-4a7103f79f4dfa40.js" async></script>
+  <script src="/_next/static/chunks/89820fca-1047a837fa14b966.js" async></script>
+  <script src="/_next/static/chunks/8b413569-def491efd6c28db6.js" async></script>
+  <script src="/_next/static/chunks/13770e2f-35c7c976a3f98d80.js" async></script>
+  <script src="/_next/static/chunks/65defed1-0155fab3a8909b15.js" async></script>
+  <script src="/_next/static/chunks/41d80367-865255ae0c905a05.js" async></script>
+  <script src="/_next/static/chunks/9914-33eb292a7a9446ca.js" async></script>
+  <script src="/_next/static/chunks/1666-06e724bd6c4d800d.js" async></script>
+  <script src="/_next/static/chunks/4117-01bce46f797382bd.js" async></script>
+  <script src="/_next/static/chunks/5672-33979eea30637317.js" async></script>
+  <script src="/_next/static/chunks/5560-db17c6e8b833807f.js" async></script>
+  <script src="/_next/static/chunks/2146-d78b4707c3b6ba83.js" async></script>
+  <script src="/_next/static/chunks/7620-eb0e9e3a7c280c3b.js" async></script>
+  <script src="/_next/static/chunks/app/(menu)/menu/%5Bid%5D/page-4f3aa1a929770df5.js" async></script>
+  <title>Prathithi Shettymenu</title>
+  <meta name="description" content="Bangalore">
+  <link rel="manifest" href="/manifest.webmanifest">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon" sizes="48x48">
+  <meta name="next-size-adjust">
+  <script src="/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js" nomodule=""></script>
+</head>
+<body class="__variable_aaf875 __variable_c8b7fb">
+  <script>
+  !function(){try{var d=document.documentElement,c=d.classList;c.remove('light','dark');var e=localStorage.getItem('theme');if('system'===e||(!e&&false)){var t='(prefers-color-scheme: dark)',m=window.matchMedia(t);if(m.media!==t||m.matches){d.style.colorScheme = 'dark';c.add('dark')}else{d.style.colorScheme = 'light';c.add('light')}}else if(e){c.add(e|| '')}else{c.add('dark')}if(e==='light'||e==='dark'||!e)d.style.colorScheme=e||'dark'}catch(e){}}()
+  </script><!--$-->
+  <div>
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"Restaurant","address":{"@type":"PostalAddress","streetAddress":"Bangalore"},"name":"Prathithi Shetty","description":"","telephone":"8310997456","url":"http://elegant.menu/menu/6610f2cf896693489d5b1646","hasMenu":{"@type":"Menu","hasMenuSection":[{"@type":"MenuSection","name":"main","hasMenuItem":[{"@type":"MenuItem","name":"Pizza Margherita","description":"pmodoro, formaggio(Mozzarella)","offers":{"@type":"Offer","price":200,"priceCurrency":"₹"}},{"@type":"MenuItem","name":"Risotto","description":"Rice,milk,cheese","offers":{"@type":"Offer","price":240,"priceCurrency":"₹"}},{"@type":"MenuItem","name":"Pasta","description":"Milk,cheese,nuts","offers":{"@type":"Offer","price":179,"priceCurrency":"₹"}},{"@type":"MenuItem","name":"Rice and vegetables ","description":"Rice, vegetables","offers":{"@type":"Offer","price":200,"priceCurrency":"₹"}}]},{"@type":"MenuSection","name":"Starters","hasMenuItem":[{"@type":"MenuItem","name":"Gobi manchurian","description":"Gobi, onion, capsicum","offers":{"@type":"Offer","price":120,"priceCurrency":"₹"}},{"@type":"MenuItem","name":"Spanish manchurian","description":"Vegetables,onion,sauces","offers":{"@type":"Offer","price":150,"priceCurrency":"₹"}},{"@type":"MenuItem","name":"Babycorn manchurian","description":"Babycorn,sauces,vegetables ","offers":{"@type":"Offer","price":130,"priceCurrency":"₹"}}]},{"@type":"MenuSection","name":"Desserts ","hasMenuItem":[{"@type":"MenuItem","name":"Caramel custard","description":"Milk","offers":{"@type":"Offer","price":260,"priceCurrency":"₹"}},{"@type":"MenuItem","name":"Gudbud","description":"Milk,nuts","offers":{"@type":"Offer","price":200,"priceCurrency":"₹"}}]},{"@type":"MenuSection","name":"Beverages","hasMenuItem":[{"@type":"MenuItem","name":"Vanilla milkshake","description":"Vanilla, milk","offers":{"@type":"Offer","price":140,"priceCurrency":"₹"}},{"@type":"MenuItem","name":"Strawberry milkshae","description":"Berrys, milk","offers":{"@type":"Offer","price":200,"priceCurrency":"₹"}}]}]}}
+    </script>
+    <main class="px-5 lg:max-w-[40%] lg:mx-auto">
+      <div class="relative pt-5 w-max">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-moon w-4 h-4 dark:scale-0 dark:rotate-90 transition-all duration-1000 scale-100 absolute">
+        <path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"></path></svg> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sun w-4 h-4 scale-0 dark:scale-100 dark:rotate-90 transition-all duration-1000 absolute">
+        <circle cx="12" cy="12" r="4"></circle>
+        <path d="M12 2v2"></path>
+        <path d="M12 20v2"></path>
+        <path d="m4.93 4.93 1.41 1.41"></path>
+        <path d="m17.66 17.66 1.41 1.41"></path>
+        <path d="M2 12h2"></path>
+        <path d="M20 12h2"></path>
+        <path d="m6.34 17.66-1.41 1.41"></path>
+        <path d="m19.07 4.93-1.41 1.41"></path></svg>
+      </div>
+      <section class="pt-8 text-center grid items-center justify-center">
+        <h1 class="font-serif font-xl font-normal mb-8">Prathithi Shetty</h1>
+      </section>
+      <div>
+        <h1 class="font-caveat text-5xl text-center mt-8">Menu</h1>
+      </div>
+      <div class="mx-auto mt-3 w-max">
+        <button class="inline-flex items-center uppercase justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-10 w-10 boder-stone-500" type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:Rtbrrqdta:" data-state="closed"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewbox="0 0 16 16" height="15" width="15" xmlns="http://www.w3.org/2000/svg">
+        <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm.93-9.412-1 4.705c-.07.34.029.533.304.533.194 0 .487-.07.686-.246l-.088.416c-.287.346-.92.598-1.465.598-.703 0-1.002-.422-.808-1.319l.738-3.468c.064-.293.006-.399-.287-.47l-.451-.081.082-.381 2.29-.287zM8 5.5a1 1 0 1 1 0-2 1 1 0 0 1 0 2z"></path></svg></button>
+      </div>
+      <section class="min-h-[60vh] mt-4">
+        <div class="mb-3 dark:border-stone-500">
+          <div class="hover:cursor-pointer overflow-hidden py-5 border-2 dark:border-stone-800 px-3 rounded-lg flex items-center justify-between relative bg-gradient-to-r from-black/90 to-black/40">
+            <img alt="main" fetchpriority="high" decoding="async" data-nimg="fill" class="-z-10 rounded-md transition-all duration-1000 false" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:center;color:transparent" sizes="95vw" srcset="/_next/image?url=https%3A%2F%2Felegant.menu%2Ffood-items%2Fmargherita.webp&amp;w=640&amp;q=40 640w, /_next/image?url=https%3A%2F%2Felegant.menu%2Ffood-items%2Fmargherita.webp&amp;w=750&amp;q=40 750w, /_next/image?url=https%3A%2F%2Felegant.menu%2Ffood-items%2Fmargherita.webp&amp;w=828&amp;q=40 828w, /_next/image?url=https%3A%2F%2Felegant.menu%2Ffood-items%2Fmargherita.webp&amp;w=1080&amp;q=40 1080w, /_next/image?url=https%3A%2F%2Felegant.menu%2Ffood-items%2Fmargherita.webp&amp;w=1200&amp;q=40 1200w, /_next/image?url=https%3A%2F%2Felegant.menu%2Ffood-items%2Fmargherita.webp&amp;w=1920&amp;q=40 1920w, /_next/image?url=https%3A%2F%2Felegant.menu%2Ffood-items%2Fmargherita.webp&amp;w=2048&amp;q=40 2048w, /_next/image?url=https%3A%2F%2Felegant.menu%2Ffood-items%2Fmargherita.webp&amp;w=3840&amp;q=40 3840w" src="/_next/image?url=https%3A%2F%2Felegant.menu%2Ffood-items%2Fmargherita.webp&amp;w=3840&amp;q=40">
+            <div class="">
+              <h2 class="uppercase my-0 font-normal text-white">main<span class="text-xs mb-1 mx-1 false">(<!-- -->4<!-- -->)</span></h2>
+            </div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-down transition-all duration-1000 text-white false">
+            <path d="m6 9 6 6 6-6"></path></svg>
+          </div>
+          <div class="max-h-0 opacity-0 overflow-hidden transition-all duration-1000"></div>
+        </div>
+        <div class="mb-3 dark:border-stone-500">
+          <div class="hover:cursor-pointer overflow-hidden py-5 border-2 dark:border-stone-800 px-3 rounded-lg flex items-center justify-between relative bg-gradient-to-r from-black/90 to-black/40">
+            <div class="">
+              <h2 class="uppercase my-0 font-normal text-white">Starters<span class="text-xs mb-1 mx-1 false">(<!-- -->3<!-- -->)</span></h2>
+            </div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-down transition-all duration-1000 text-white false">
+            <path d="m6 9 6 6 6-6"></path></svg>
+          </div>
+          <div class="max-h-0 opacity-0 overflow-hidden transition-all duration-1000"></div>
+        </div>
+        <div class="mb-3 dark:border-stone-500">
+          <div class="hover:cursor-pointer overflow-hidden py-5 border-2 dark:border-stone-800 px-3 rounded-lg flex items-center justify-between relative bg-gradient-to-r from-black/90 to-black/40">
+            <div class="">
+              <h2 class="uppercase my-0 font-normal text-white">Desserts <span class="text-xs mb-1 mx-1 false">(<!-- -->2<!-- -->)</span></h2>
+            </div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-down transition-all duration-1000 text-white false">
+            <path d="m6 9 6 6 6-6"></path></svg>
+          </div>
+          <div class="max-h-0 opacity-0 overflow-hidden transition-all duration-1000"></div>
+        </div>
+        <div class="mb-3 dark:border-stone-500">
+          <div class="hover:cursor-pointer overflow-hidden py-5 border-2 dark:border-stone-800 px-3 rounded-lg flex items-center justify-between relative bg-gradient-to-r from-black/90 to-black/40">
+            <div class="">
+              <h2 class="uppercase my-0 font-normal text-white">Beverages<span class="text-xs mb-1 mx-1 false">(<!-- -->2<!-- -->)</span></h2>
+            </div><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-down transition-all duration-1000 text-white false">
+            <path d="m6 9 6 6 6-6"></path></svg>
+          </div>
+          <div class="max-h-0 opacity-0 overflow-hidden transition-all duration-1000"></div>
+        </div>
+      </section>
+      <div class="border-y border-y-stone-500 py-5 mt-4 sticky bottom-0 text-center bg-background justify-center">
+        <button class="inline-flex items-center uppercase justify-center whitespace-nowrap rounded-md font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 underline-offset-4 hover:underline h-10 px-4 py-2 text-sm text-black dark:text-white" lang="en" disabled>You have not selected any item</button>
+      </div>
+      <div data-orientation="horizontal" role="none" class="shrink-0 bg-border h-[1px] w-full"></div>
+      <h2 class="font-serif text-xl font-normal">Prathithi Shetty</h2>
+      <p class="text-sm mt-3"></p>
+      <div class="flex gap-2 items-center my-3">
+        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewbox="0 0 384 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+        <path d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"></path></svg> <!-- -->Bangalore<!-- -->
+      </div><a class="flex gap-2 items-center my-3" href="tel:8310997456"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewbox="0 0 448 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+      <path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64H64zm90.7 96.7c9.7-2.6 19.9 2.3 23.7 11.6l20 48c3.4 8.2 1 17.6-5.8 23.2L168 231.7c16.6 35.2 45.1 63.7 80.3 80.3l20.2-24.7c5.6-6.8 15-9.2 23.2-5.8l48 20c9.3 3.9 14.2 14 11.6 23.7l-12 44C336.9 378 329 384 320 384C196.3 384 96 283.7 96 160c0-9 6-16.9 14.7-19.3l44-12z"></path></svg> <!-- -->8310997456<!-- --></a>
+      <div class="flex gap-3 items-center justify-center"></div>
+      <div data-orientation="horizontal" role="none" class="shrink-0 bg-border h-[1px] w-full mt-10"></div><a href="/">
+      <div class="text-center py-8" lang="en">
+        <h3 class="font-caveat">restaurant menu</h3>
+        <p class="text-[12px]">eat what you like</p>
+      </div></a>
+    </main>
+  </div><!--/$--><!--$--><!--/$-->
+  <script src="/_next/static/chunks/webpack-72f3763fcc2c6980.js" async></script> 
+  <script>
+
+  (self.__next_f=self.__next_f||[]).push([0]);self.__next_f.push([2,null])
+  </script> 
+  <script>
+
+  self.__next_f.push([1,"0:\"$L1\"\n"])
+  </script> 
+  <script>
+
+  self.__next_f.push([1,"2:HL[\"/_next/static/media/05f970ec0bd776d8-s.p.woff2\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n3:HL[\"/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n4:HL[\"/_next/static/css/cbcdcbb4fe3d9400.css\",\"style\"]\n5:HL[\"/_next/static/css/d48647e3a4375a6b.css\",\"style\"]\n"])
+  </script> 
+  <script>
+
+  self.__next_f.push([1,"6:I[9070,[],\"\"]\n9:I[2070,[],\"\"]\nb:I[8932,[],\"\"]\nc:I[2680,[\"6072\",\"static/chunks/app/(menu)/layout-5a8ca734d48466ea.js\"],\"ThemeProvider\"]\nd:I[2011,[\"6072\",\"static/chunks/app/(menu)/layout-5a8ca734d48466ea.js\"],\"Analytics\"]\ne:I[251,[\"6072\",\"static/chunks/app/(menu)/layout-5a8ca734d48466ea.js\"],\"SpeedInsights\"]\n14:I[4357,[],\"\"]\na:[\"id\",\"6610f2cf896693489d5b1646\",\"d\"]\nf:{\"fontFamily\":\"system-ui,\\\"Segoe UI\\\",Roboto,Helvetica,Arial,sans-serif,\\\"Apple Color Emoji\\\",\\\"Segoe UI Emoji\\\"\",\"height\":\"100vh\",\"textAlign\":"])
+  </script> 
+  <script>
+
+  self.__next_f.push([1,"\"center\",\"display\":\"flex\",\"flexDirection\":\"column\",\"alignItems\":\"center\",\"justifyContent\":\"center\"}\n10:{\"display\":\"inline-block\",\"margin\":\"0 20px 0 0\",\"padding\":\"0 23px 0 0\",\"fontSize\":24,\"fontWeight\":500,\"verticalAlign\":\"top\",\"lineHeight\":\"49px\"}\n11:{\"display\":\"inline-block\"}\n12:{\"fontSize\":14,\"fontWeight\":400,\"lineHeight\":\"49px\",\"margin\":0}\n15:[]\n"])
+  </script> 
+  <script>
+
+  self.__next_f.push([1,"1:[null,[\"$\",\"$L6\",null,{\"buildId\":\"vp4IN_rCJYDodqUSlW79N\",\"assetPrefix\":\"\",\"initialCanonicalUrl\":\"/menu/6610f2cf896693489d5b1646\",\"initialTree\":[\"\",{\"children\":[\"(menu)\",{\"children\":[\"menu\",{\"children\":[[\"id\",\"6610f2cf896693489d5b1646\",\"d\"],{\"children\":[\"__PAGE__\",{}]}]}]},\"$undefined\",\"$undefined\",true]}],\"initialSeedData\":[\"\",{\"children\":[\"(menu)\",{\"children\":[\"menu\",{\"children\":[[\"id\",\"6610f2cf896693489d5b1646\",\"d\"],{\"children\":[\"__PAGE__\",{},[\"$L7\",\"$L8\",null]]},[\"$\",\"$L9\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\",\"(menu)\",\"children\",\"menu\",\"children\",\"$a\",\"children\"],\"loading\":\"$undefined\",\"loadingStyles\":\"$undefined\",\"loadingScripts\":\"$undefined\",\"hasLoading\":false,\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$Lb\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"notFoundStyles\":\"$undefined\",\"styles\":null}]]},[\"$\",\"$L9\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\",\"(menu)\",\"children\",\"menu\",\"children\"],\"loading\":\"$undefined\",\"loadingStyles\":\"$undefined\",\"loadingScripts\":\"$undefined\",\"hasLoading\":false,\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$Lb\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"notFoundStyles\":\"$undefined\",\"styles\":null}]]},[null,[\"$\",\"html\",null,{\"dir\":\"auto\",\"children\":[\"$\",\"body\",null,{\"className\":\"__variable_aaf875 __variable_c8b7fb\",\"children\":[[\"$\",\"$Lc\",null,{\"attribute\":\"class\",\"defaultTheme\":\"dark\",\"children\":[\"$\",\"$L9\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\",\"(menu)\",\"children\"],\"loading\":[\"$\",\"div\",null,{\"className\":\"h-[85vh] grid items-center\",\"children\":[\"$\",\"div\",null,{\"className\":\"animate-spin w-max mx-auto\",\"children\":[\"$\",\"svg\",null,{\"stroke\":\"currentColor\",\"fill\":\"currentColor\",\"strokeWidth\":\"0\",\"viewBox\":\"0 0 512 512\",\"children\":[\"$undefined\",[[\"$\",\"path\",\"0\",{\"d\":\"M304 48c0 26.51-21.49 48-48 48s-48-21.49-48-48 21.49-48 48-48 48 21.49 48 48zm-48 368c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48zm208-208c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48zM96 256c0-26.51-21.49-48-48-48S0 229.49 0 256s21.49 48 48 48 48-21.49 48-48zm12.922 99.078c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48c0-26.509-21.491-48-48-48zm294.156 0c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48c0-26.509-21.49-48-48-48zM108.922 60.922c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.491-48-48-48z\",\"children\":\"$undefined\"}]]],\"className\":\"$undefined\",\"style\":{\"color\":\"$undefined\"},\"height\":\"50px\",\"width\":\"50px\",\"xmlns\":\"http://www.w3.org/2000/svg\"}]}]}],\"loadingStyles\":[],\"loadingScripts\":[],\"hasLoading\":true,\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$Lb\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":[[\"$\",\"title\",null,{\"children\":\"404: This page could not be found.\"}],[\"$\",\"div\",null,{\"style\":{\"fontFamily\":\"system-ui,\\\"Segoe UI\\\",Roboto,Helvetica,Arial,sans-serif,\\\"Apple Color Emoji\\\",\\\"Segoe UI Emoji\\\"\",\"height\":\"100vh\",\"textAlign\":\"center\",\"display\":\"flex\",\"flexDirection\":\"column\",\"alignItems\":\"center\",\"justifyContent\":\"center\"},\"children\":[\"$\",\"div\",null,{\"children\":[[\"$\",\"style\",null,{\"dangerouslySetInnerHTML\":{\"__html\":\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\"}}],[\"$\",\"h1\",null,{\"className\":\"next-error-h1\",\"style\":{\"display\":\"inline-block\",\"margin\":\"0 20px 0 0\",\"padding\":\"0 23px 0 0\",\"fontSize\":24,\"fontWeight\":500,\"verticalAlign\":\"top\",\"lineHeight\":\"49px\"},\"children\":\"404\"}],[\"$\",\"div\",null,{\"style\":{\"display\":\"inline-block\"},\"children\":[\"$\",\"h2\",null,{\"style\":{\"fontSize\":14,\"fontWeight\":400,\"lineHeight\":\"49px\",\"margin\":0},\"children\":\"This page could not be found.\"}]}]]}]}]],\"notFoundStyles\":[],\"styles\":null}]}],[\"$\",\"$Ld\",null,{}],[\"$\",\"$Le\",null,{}]]}]}],null]]},[\"$\",\"$L9\",null,{\"parallelRouterKey\":\"children\",\"segmentPath\":[\"children\"],\"loading\":\"$undefined\",\"loadingStyles\":\"$undefined\",\"loadingScripts\":\"$undefined\",\"hasLoading\":false,\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$Lb\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":[[\"$\",\"title\",null,{\"children\":\"404: This page could not be found.\"}],[\"$\",\"div\",null,{\"style\":\"$f\",\"children\":[\"$\",\"div\",null,{\"children\":[[\"$\",\"style\",null,{\"dangerouslySetInnerHTML\":{\"__html\":\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\"}}],[\"$\",\"h1\",null,{\"className\":\"next-error-h1\",\"style\":\"$10\",\"children\":\"404\"}],[\"$\",\"div\",null,{\"style\":\"$11\",\"children\":[\"$\",\"h2\",null,{\"style\":\"$12\",\"children\":\"This page could not be found.\"}]}]]}]}]],\"notFoundStyles\":[],\"styles\":[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/cbcdcbb4fe3d9400.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}],[\"$\",\"link\",\"1\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/d48647e3a4375a6b.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\"}]]}]],\"initialHead\":[false,\"$L13\"],\"globalErrorComponent\":\"$14\",\"missingSlots\":\"$W15\"}]]\n"])
+  </script> 
+  <script>
+
+  self.__next_f.push([1,"17:I[6648,[\"9492\",\"static/chunks/8100ded3-f6c125f1557000a7.js\",\"7457\",\"static/chunks/7b733d5d-9decf01ba76b93d1.js\",\"8108\",\"static/chunks/ba5914e4-4a7103f79f4dfa40.js\",\"6623\",\"static/chunks/89820fca-1047a837fa14b966.js\",\"6402\",\"static/chunks/8b413569-def491efd6c28db6.js\",\"508\",\"static/chunks/13770e2f-35c7c976a3f98d80.js\",\"7833\",\"static/chunks/65defed1-0155fab3a8909b15.js\",\"780\",\"static/chunks/41d80367-865255ae0c905a05.js\",\"9914\",\"static/chunks/9914-33eb292a7a9446ca.js\",\"1666\",\"static/chunks/1666-06e724bd6c4d800d.js\",\"4117\",\"static/chunks/4117-01bce46f797382bd.js\",\"5672\",\"static/chunks/5672-33979eea30637317.js\",\"5560\",\"static/chunks/5560-db17c6e8b833807f.js\",\"2146\",\"static/chunks/2146-d78b4707c3b6ba83.js\",\"7620\",\"static/chunks/7620-eb0e9e3a7c280c3b.js\",\"6613\",\"static/chunks/app/(menu)/menu/%5Bid%5D/page-4f3aa1a929770df5.js\"],\"\"]\n"])
+  </script> 
+  <script>
+
+  self.__next_f.push([1,"16:T80f,"])
+  </script> 
+  <script>
+
+  self.__next_f.push([1,"{\"@context\":\"https://schema.org\",\"@type\":\"Restaurant\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Bangalore\"},\"name\":\"Prathithi Shetty\",\"description\":\"\",\"telephone\":\"8310997456\",\"url\":\"http://elegant.menu/menu/6610f2cf896693489d5b1646\",\"hasMenu\":{\"@type\":\"Menu\",\"hasMenuSection\":[{\"@type\":\"MenuSection\",\"name\":\"main\",\"hasMenuItem\":[{\"@type\":\"MenuItem\",\"name\":\"Pizza Margherita\",\"description\":\"pmodoro, formaggio(Mozzarella)\",\"offers\":{\"@type\":\"Offer\",\"price\":200,\"priceCurrency\":\"₹\"}},{\"@type\":\"MenuItem\",\"name\":\"Risotto\",\"description\":\"Rice,milk,cheese\",\"offers\":{\"@type\":\"Offer\",\"price\":240,\"priceCurrency\":\"₹\"}},{\"@type\":\"MenuItem\",\"name\":\"Pasta\",\"description\":\"Milk,cheese,nuts\",\"offers\":{\"@type\":\"Offer\",\"price\":179,\"priceCurrency\":\"₹\"}},{\"@type\":\"MenuItem\",\"name\":\"Rice and vegetables \",\"description\":\"Rice, vegetables\",\"offers\":{\"@type\":\"Offer\",\"price\":200,\"priceCurrency\":\"₹\"}}]},{\"@type\":\"MenuSection\",\"name\":\"Starters\",\"hasMenuItem\":[{\"@type\":\"MenuItem\",\"name\":\"Gobi manchurian\",\"description\":\"Gobi, onion, capsicum\",\"offers\":{\"@type\":\"Offer\",\"price\":120,\"priceCurrency\":\"₹\"}},{\"@type\":\"MenuItem\",\"name\":\"Spanish manchurian\",\"description\":\"Vegetables,onion,sauces\",\"offers\":{\"@type\":\"Offer\",\"price\":150,\"priceCurrency\":\"₹\"}},{\"@type\":\"MenuItem\",\"name\":\"Babycorn manchurian\",\"description\":\"Babycorn,sauces,vegetables \",\"offers\":{\"@type\":\"Offer\",\"price\":130,\"priceCurrency\":\"₹\"}}]},{\"@type\":\"MenuSection\",\"name\":\"Desserts \",\"hasMenuItem\":[{\"@type\":\"MenuItem\",\"name\":\"Caramel custard\",\"description\":\"Milk\",\"offers\":{\"@type\":\"Offer\",\"price\":260,\"priceCurrency\":\"₹\"}},{\"@type\":\"MenuItem\",\"name\":\"Gudbud\",\"description\":\"Milk,nuts\",\"offers\":{\"@type\":\"Offer\",\"price\":200,\"priceCurrency\":\"₹\"}}]},{\"@type\":\"MenuSection\",\"name\":\"Beverages\",\"hasMenuItem\":[{\"@type\":\"MenuItem\",\"name\":\"Vanilla milkshake\",\"description\":\"Vanilla, milk\",\"offers\":{\"@type\":\"Offer\",\"price\":140,\"priceCurrency\":\"₹\"}},{\"@type\":\"MenuItem\",\"name\":\"Strawberry milkshae\",\"description\":\"Berrys, milk\",\"offers\":{\"@type\":\"Offer\",\"price\":200,\"priceCurrency\":\"₹\"}}]}]}}"])
+  </script> 
+  <script>
+
+  self.__next_f.push([1,"8:[\"$\",\"div\",null,{\"children\":[[\"$\",\"script\",null,{\"type\":\"application/ld+json\",\"dangerouslySetInnerHTML\":{\"__html\":\"$16\"}}],[\"$\",\"$L17\",null,{\"user\":{\"_id\":\"6610f2cf896693489d5b1646\",\"currency\":\"₹\",\"menu\":{\"categories\":[{\"categoryName\":\"main\",\"items\":[{\"name\":\"Pizza Margherita\",\"ingredients\":\"pmodoro, formaggio(Mozzarella)\",\"price\":200,\"imageUrl\":\"https://elegant.menu/food-items/margherita.webp\",\"discountedPrice\":7,\"allergens\":[\"Lactose\",\"Wheat\"]},{\"name\":\"Risotto\",\"ingredients\":\"Rice,milk,cheese\",\"price\":240,\"imageUrl\":null,\"discountedPrice\":10,\"allergens\":[\"Milk\"]},{\"name\":\"Pasta\",\"ingredients\":\"Milk,cheese,nuts\",\"price\":179,\"imageUrl\":null,\"discountedPrice\":5,\"allergens\":[\"Milk\"]},{\"name\":\"Rice and vegetables \",\"ingredients\":\"Rice, vegetables\",\"price\":200,\"imageUrl\":null,\"discountedPrice\":null,\"allergens\":[]}]},{\"categoryName\":\"Starters\",\"items\":[{\"name\":\"Gobi manchurian\",\"ingredients\":\"Gobi, onion, capsicum\",\"price\":120,\"imageUrl\":null,\"discountedPrice\":null,\"allergens\":[]},{\"name\":\"Spanish manchurian\",\"ingredients\":\"Vegetables,onion,sauces\",\"price\":150,\"imageUrl\":null,\"discountedPrice\":null,\"allergens\":[]},{\"name\":\"Babycorn manchurian\",\"ingredients\":\"Babycorn,sauces,vegetables \",\"price\":130,\"imageUrl\":null,\"discountedPrice\":null,\"allergens\":[]}]},{\"categoryName\":\"Desserts \",\"items\":[{\"name\":\"Caramel custard\",\"ingredients\":\"Milk\",\"price\":260,\"imageUrl\":null,\"discountedPrice\":null,\"allergens\":[\"Milk\"]},{\"name\":\"Gudbud\",\"ingredients\":\"Milk,nuts\",\"price\":200,\"imageUrl\":null,\"discountedPrice\":null,\"allergens\":[\"Milk\",\"Nuts\"]}]},{\"categoryName\":\"Beverages\",\"items\":[{\"name\":\"Vanilla milkshake\",\"ingredients\":\"Vanilla, milk\",\"price\":140,\"imageUrl\":null,\"discountedPrice\":null,\"allergens\":[\"Milk\"]},{\"name\":\"Strawberry milkshae\",\"ingredients\":\"Berrys, milk\",\"price\":200,\"imageUrl\":null,\"discountedPrice\":null,\"allergens\":[\"Milk\"]}]}]},\"about\":\"\",\"address\":\"Bangalore\",\"businessName\":\"Prathithi Shetty\",\"facebookUrl\":\"\",\"instagramUrl\":\"\",\"logoUrl\":\"\",\"phone\":\"8310997456\"},\"hideInfo\":false}]]}]\n"])
+  </script> 
+  <script>
+
+  self.__next_f.push([1,"13:[[\"$\",\"meta\",\"0\",{\"name\":\"viewport\",\"content\":\"width=device-width, initial-scale=1\"}],[\"$\",\"meta\",\"1\",{\"charSet\":\"utf-8\"}],[\"$\",\"title\",\"2\",{\"children\":\"Prathithi Shettymenu\"}],[\"$\",\"meta\",\"3\",{\"name\":\"description\",\"content\":\"Bangalore\"}],[\"$\",\"link\",\"4\",{\"rel\":\"manifest\",\"href\":\"/manifest.webmanifest\"}],[\"$\",\"link\",\"5\",{\"rel\":\"icon\",\"href\":\"/favicon.ico\",\"type\":\"image/x-icon\",\"sizes\":\"48x48\"}],[\"$\",\"meta\",\"6\",{\"name\":\"next-size-adjust\"}]]\n7:null\n"])
+  </script> 
+  <script>
+
+  self.__next_f.push([1,""])
+  </script>
+</body>
+</html>
